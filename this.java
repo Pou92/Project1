@@ -1,7 +1,7 @@
 //adding documentation
 public class this{
     public static void main(String[] a){
-        Circle c1 = new Circle(10f);
+        Circle c1 = new Circle(12f);
         System.out.println("area of circle = " + c1.area());
 
         Circle c2 = new Circle(20f);
